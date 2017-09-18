@@ -16,26 +16,26 @@ p {
     padding-bottom: 50px;
     padding-left: 80px;
     font-family: verdana;
-    font-size: 20px;
+    font-size: 40px;
     color: darkslategray;
 }
 
 img.one {
-    height: 20%;
-    width: 20%
+    height: 620px;
+    width: 341px;
 }
 
 img.two {
-    height: 20%;
-    width: 20%
+    height: 620px;
+    width: 341px;
 }
 
 img.three {
-    height: 20%;
-    width: 20%
+    height: 620px;
+    width: 341px;
 }
 
 img.four {
-    height: 20%;
-    width: 20%
+    height: 620px;
+    width: 341px;
 }
