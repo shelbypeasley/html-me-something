@@ -2,6 +2,10 @@ body {
     background-color: wheat;
 }
 
+header {
+    font-size:80px;
+    font-weight: bold;
+}
 p {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -22,16 +26,16 @@ img.one {
 }
 
 img.two {
-    height: 50%;
-    width: 50%
+    height: 20%;
+    width: 20%
 }
 
 img.three {
-    height: 50%;
-    width: 50%
+    height: 20%;
+    width: 20%
 }
 
 img.four {
-    height: 50%;
-    width: 50%
+    height: 20%;
+    width: 20%
 }
