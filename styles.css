@@ -2,13 +2,13 @@ body {
     background-color: wheat;
 }
 
-<h1> {
+h1 {
     font-size: 2.5em;
     font-weight: bold;
     color: darkslategray;
 }
 
-<p> {
+p {
     margin-top: 50px;
     margin-bottom: 50px;
     margin-right: 150px;
