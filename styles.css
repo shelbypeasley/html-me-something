@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 250%;
     font-weight: bold;
 }
 p {
@@ -23,19 +23,27 @@ p {
 img.one {
     height: 30%;
     width: 30%;
+    display: block;
+    margin: 0 auto;
 }
 
 img.two {
     height: 30%;
     width: 30%;
+    display: block;
+    margin: 0 auto;
 }
 
 img.three {
     height: 30%;
     width: 30%;
+    display: block;
+    margin: 0 auto;
 }
 
 img.four {
     height: 30%;
     width: 30%;
+    display: block;
+    margin: 0 auto;
 }
