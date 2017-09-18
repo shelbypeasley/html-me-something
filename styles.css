@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    font-size:80px;
+    font-size: 40px;
     font-weight: bold;
 }
 p {
@@ -21,21 +21,21 @@ p {
 }
 
 img.one {
-    height: 620px;
-    width: 341px;
+    height: 30%;
+    width: 30%;
 }
 
 img.two {
-    height: 620px;
-    width: 341px;
+    height: 30%;
+    width: 30%;
 }
 
 img.three {
-    height: 620px;
-    width: 341px;
+    height: 30%;
+    width: 30%;
 }
 
 img.four {
-    height: 620px;
-    width: 341px;
+    height: 30%;
+    width: 30%;
 }
